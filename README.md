@@ -1,17 +1,17 @@
 # PerfOS
 
 ### Overview
-Given the rate of growth for AI, it is likely that the largest limiting factor in humankind's ability to use it will our ability to specify what we want.  In a nutshell, PerfOS is an OS wishlist to be handed off to AI when the time comes.  It may take years to fully collect and refine the feedback and insight needed, but -- with it -- a sufficiently advanced AI will be able to create a more perfect OS from the ground up.
+In a nutshell, PerfOS is an OS wishlist to be handed off to AI when the time comes.  It could take years to fully collect and refine the feedback and insight needed, but -- with it -- a sufficiently advanced AI will be able to create a more perfect OS from the ground up.
 
-### From the ground up?  Why not use existing OSS?
-Existing OSS will likely be used as reference, but the AIs that use our feedback must be free to approach problems in new ways, having learned from our mistakes.  They must be allowed to make as many commits in a day as they want, delete what they want, and generally not be limited to the OSS politics of being a team player.
+### From the ground up
+Existing OSS will likely be used as reference, but the AIs that use our feedback must be free to approach problems in new ways, having learned from our mistakes.  They must be allowed to make as many commits in a day as they want, delete what they want, and generally not be limited to the politics of collaboration.
 
 ### The stages
 1. Stage 1 - Collecting feedback and insights
 2. Stage 2 - Crowd funding for the compute needed to get started
 3. Stage 3 - Collaborative feedback to specifying questions as given by the AI
 
-### When AI is good enough
+### When is AI good enough?
 The thresholds for when AI is good enough to start building a new OS are arbitrary, and anyone can task AI to this project at any time.  In place of no answer, here are some suggestions:
 - When AI is economically viable relative to crowdfunding projections.
 - When AI is capable of running an entire git project on its own, including discussion and asking clarifying questions.
