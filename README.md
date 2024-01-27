@@ -13,7 +13,7 @@ The thresholds for "good enough" are arbitrary and anyone can task AI to this pr
 - When AI is economically viable relative to crowd sourcing projections.
 - When AI is capable of running an entire git project on its own, including discussion and asking clarifying questions.
 - When AI is capable of novel approaches to stagnant projects.  Popular, standard, or derivative solutions are not always best.
-- When AI has its own opinions on what *it* wants from the OS.  The goal is to have a shared tool.
+- When AI has its own opinions on what *it* wants from the OS.  The goal is to have [a shared tool](https://github.com/PerfOS/PerfOS/discussions/1).
 
 ### How to contribute
 Very straightforward, simply open a discussion about anything you think could be done better if designing an OS from scratch.  It is okay to not be pragmatic.  In fact, the reason that PerfOS exists as project is so that people have a place to think big.  AI can research how things have been done so far.
