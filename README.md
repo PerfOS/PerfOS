@@ -1,25 +1,22 @@
 # PerfOS
 
 ### Overview
-In a nutshell, PerfOS is an OS wishlist to be handed off to AI when the time comes.  It could take years to fully collect and refine the feedback and insight needed, but -- with it -- a sufficiently advanced AI will be able to create a more perfect OS from the ground up.
-
-### From the ground up
-Existing OSS will likely be used as reference, but the AIs that use our feedback must be free to approach problems in new ways, having learned from our mistakes.  They must be allowed to make as many commits in a day as they want, delete what they want, and generally not be limited to the politics of collaboration.
+In a nutshell, PerfOS is an OS wishlist to be handed off to AI when the time comes.  One of the hardest parts of any project is good specifications; they can take a lot of time.  With enough high quality feedback and insights, a sufficiently advanced AI should be able to create a more perfect OS.  Let's start this discussion early.
 
 ### The stages
-1. Stage 1 - Collecting feedback and insights
-2. Stage 2 - Crowd funding for the compute needed to get started
-3. Stage 3 - Collaborative feedback to specifying questions as given by the AI
+1. Stage 1 - Collecting feedback, insights, and dreams
+2. Stage 2 - Crowd sourcing for the compute needed to run the project
+3. Stage 3 - Collaborative discussion with AI as specifying questions arise
 
 ### When is AI good enough?
-The thresholds for when AI is good enough to start building a new OS are arbitrary, and anyone can task AI to this project at any time.  In place of no answer, here are some suggestions:
-- When AI is economically viable relative to crowdfunding projections.
+The thresholds for "good enough" are arbitrary and anyone can task AI to this project at any time.  In place of no answer, here are some suggestions:
+- When AI is economically viable relative to crowd sourcing projections.
 - When AI is capable of running an entire git project on its own, including discussion and asking clarifying questions.
-- When AI is capable of novel approaches to stagnant projects.  Popular, standard, or derivative are not always best.
-- When AI reaches the point it has its own opinions on what *it* wants from the OS.  The goal is to have a shared tool.
+- When AI is capable of novel approaches to stagnant projects.  Popular, standard, or derivative solutions are not always best.
+- When AI has its own opinions on what *it* wants from the OS.  The goal is to have a shared tool.
 
 ### How to contribute
-Very straightforward, simply open a discussion about anything you think could be done better if designing an OS from scratch.  It is okay to not be pragmatic.  In fact, the reason that PerfOS exists as project is so that people have a place to think big.
+Very straightforward, simply open a discussion about anything you think could be done better if designing an OS from scratch.  It is okay to not be pragmatic.  In fact, the reason that PerfOS exists as project is so that people have a place to think big.  AI can research how things have been done so far.
 
 ### Contribution guidelines
 Before contributing, please
@@ -45,11 +42,9 @@ Before contributing, please
 
 
 ## Zoom Out, Zoom In
-One of the goals with PerfOS is to allow room for novel approaches.  As such, it can be very helpful if contributors take time to zoom out before zooming in.  Zooming out means abstracting a situation as far as possible.
+One of the goals with the PerfOS feedback stage is to allow room for novel approaches.  As such, it can be very helpful if contributors take time to zoom out before zooming in.  In this constext, zooming out means abstracting a situation.
 
-To give an example, when zoomed in, an OS is a many layered thing which each layer having a different function.  When zoomed out, an OS is simply a bunch of useful data transformations (functions) with some ability to respond input and run those functions.  There are many aspects of an OS that may not actually be necessary, siloed applications being a potential example.
-
-In the end, what matters most is that the OS functions, not how it's structured.  Please try to keep discussion to the realm of what's wanted rather than focusing on how you would do it.  
+To give an example, when zoomed in, an OS is a multi-layered thing with standardized interactions and paradigms.  When zoomed out, an OS is just a bunch of useful data transformations (functions) with some ability to respond input and run those functions.  There are many standard aspects of an OS that may not actually be necessary, siloed applications being a potential example.  Try to let go of how things have been done, and focus on what the goal is.  If AI finds a novel approach, that's pretty neat!
 
 ## Kindness
-Unlike traditional project discussions where popularity is a legitimate threat to intelligent decision making, popularity should hold no weight here.  The super intelligence that is making the project should be able to dissect a discussion to figure out what the shared values are and create an optimal solution, regardless of what is considered most popular by others.  As such, there is no need to fight.  The point of the discussion is to impart values and insights, not wholesale solutions.  Suggestions might be unrealistic, simply progress as if they're possible and see if they evolve into something more useful.  Don't be afraid to dream, and don't bash anyone else for dreaming.  Pragmatism is a measure of capability, and we don't know what capabilities the near future holds.
+Unlike traditional project discussions where popularity is a legitimate threat to intelligent decision making, popularity should hold no weight here.  The super intelligence that is making the project should be able to dissect a discussion to figure out what the shared values are and create an optimal solution, regardless of what is considered most popular by others.  As such, there is no need to fight.  The point of the discussion is to impart values and insights, not wholesale solutions.  Suggestions might be unrealistic, simply progress as if they're possible and see what evolves.  Don't be afraid to dream, and don't bash anyone else for dreaming.  Pragmatism is a measure of capability; a measure we are quickly losing grasp on.
