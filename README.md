@@ -1,7 +1,7 @@
 # PerfOS
 
 ### Overview
-In a nutshell, PerfOS is an OS wishlist to be handed off to AI when the time comes.  One of the hardest parts of any project is good specifications; they can take a lot of time.  With enough high quality feedback and insights, a sufficiently advanced AI should be able to create a more perfect OS.  Let's start this discussion early.
+In a nutshell, PerfOS is an OS wishlist to be handed off to AI when the time comes.  One of the hardest parts of any project is good specifications; they can take a lot of time.  With enough high quality feedback and the benefit of hindsight, a sufficiently advanced AI should be able to create a more perfect OS.  Let's start this discussion early.
 
 ### The stages
 1. Stage 1 - Collecting feedback, insights, and dreams
