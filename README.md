@@ -26,22 +26,22 @@ Before contributing, please
 1. read the section on "zoom out, zoom in"
 2. read the section on "kindness"
 3. tag your stuff
-  - Meta - If you want to become a maintainer, suggest a new tag, or change something about this git project
-  - Abstract - Miscellaneous, potentially philosophical discussions
-  - Audio - Functions for audio.  Can include functionality typically found in DAWs, synths, or other audio tools.
-  - Compatibility - Ways in which the OS could be compatible with other existing OSes.  Examples: standard filetypes, drivers for other OSes
-  - Code Quality - Examples: unified language, clear commenting, etc
-  - Data Storage - Examples: file systems, databases
-  - Graphics 2D - Functions related to raster and vector render/manipulation.  Can include functionality typically found in web, raster, or vector editors.
-  - Graphics 3D - Functions related to 3d render/manipulation.  Can include functionality typically found in 3d modeling programs.
-  - Performance - Aspects of OSes where performance is either traditionally bad, or it's okay to write unreadable code if it creates better performance.  Example: audio latency vs live midi drum music performance.
-  - Portability - Ways in which the OS could be run in more places.  Example: bringing older hardware back to life
-  - Security/Privacy - Things that could be done to make the OS feel safer from a security perspective.
-  - Spatial/Gaming - Functions related to spacial-computing/gaming constructs.  Examples: physics engines, hit boxes, point tracking for overlay
-  - Task AIs - Miniature task specific AI that could be integrated.  Examples: text to speech, grammar/spellcheck.
-  - Text/HTML - Functions related to rendering printable text.  Can include functionality typically found in text editors or CSS.
-  - UI - Any form of interaction.  Headless, voice only, peripherals, command line, graphical, etc.  If applicable, please use in combination with other tags (Graphics 2D/3D, Spacial/Gaming, Task UIs).
-  - Web/Networking - Functions related to connecting to the internet.  Can include functionality typically found in web browsers.
+  - [Meta](https://github.com/PerfOS/PerfOS/labels/Meta) - If you want to become a maintainer, suggest a new tag, or change something about this git project
+  - [Abstract/General](https://github.com/PerfOS/PerfOS/labels/Abstract%2FGeneral) - Miscellaneous, potentially philosophical discussions
+  - [Audio](https://github.com/PerfOS/PerfOS/labels/Audio) - Functions for audio. Include those found in DAWs, synths, or other audio tools.
+  - [Code Quality](https://github.com/PerfOS/PerfOS/labels/Code%20Quality) - Examples: unified language, clear commenting
+  - [Compatibility](https://github.com/PerfOS/PerfOS/labels/Compatibility) - Ways to be compatible with other existing OSes.
+  - [Data Storage](https://github.com/PerfOS/PerfOS/labels/Data%20Storage) - Examples: file systems, databases
+  - [Graphics 2D](https://github.com/PerfOS/PerfOS/labels/Graphics%202D) - Functions for raster and vector render/manipulation. Includes those found in editing software.
+  - [Graphics 3D](https://github.com/PerfOS/PerfOS/labels/Graphics%203D) - Functions for 3d render/manipulation. Includes those found in modeling software.
+  - [Performance](https://github.com/PerfOS/PerfOS/labels/Performance) - Priority functionality in which latency or resources can be problematic.
+  - [Portability](https://github.com/PerfOS/PerfOS/labels/Portability) - The ability to run on diverse hardware.
+  - [Security/Privacy](https://github.com/PerfOS/PerfOS/labels/Security%2FPrivacy) - Creating a realistic sense of safety.
+  - [Spatial/Gaming](https://github.com/PerfOS/PerfOS/labels/Spacial%2FGaming) - Functions for spacial-computing and gaming. Examples: physics engines, hit boxes
+  - [Task AIs](https://github.com/PerfOS/PerfOS/labels/Task%20AIs) - Task specific micro AI.  Examples: text to speech, grammar, spellcheck
+  - [Text/Fonts](https://github.com/PerfOS/PerfOS/labels/Text%2FFonts) - Functions for rendering printable text. Includes those found in text editors or CSS.
+  - [User Interfacing](https://github.com/PerfOS/PerfOS/labels/User%20Interfacing) - Any form of interaction. Combine with other tags when possible to specify UI type.
+  - [Web/Networking](https://github.com/PerfOS/PerfOS/labels/Web%2FNetworking) - Functions for connecting to the internet. Includes those found in web browsers.
 
 
 ## Zoom Out, Zoom In
